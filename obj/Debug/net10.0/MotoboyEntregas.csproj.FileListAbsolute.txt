@@ -1,0 +1,60 @@
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfo.cs
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.exe
+C:\Users\Lucas\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.deps.json
+C:\Users\Lucas\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.runtimeconfig.json
+C:\Users\Lucas\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Lucas\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\refint\MotoboyEntregas.dll
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.genruntimeconfig.cache
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\ref\MotoboyEntregas.dll
+C:\Users\Lucas\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyE.9F87745B.Up2Date
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfo.cs
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\refint\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.exe
+C:\Users\Suporte\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.deps.json
+C:\Users\Suporte\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.runtimeconfig.json
+C:\Users\Suporte\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\MotoboyEntregas\bin\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyEntregas.genruntimeconfig.cache
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\ref\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\MotoboyEntregas\obj\Debug\net10.0\MotoboyE.9F87745B.Up2Date
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfo.cs
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\refint\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\Gestão Motoboys\bin\Debug\net10.0\MotoboyEntregas.exe
+C:\Users\Suporte\Documents\Gestão Motoboys\bin\Debug\net10.0\MotoboyEntregas.deps.json
+C:\Users\Suporte\Documents\Gestão Motoboys\bin\Debug\net10.0\MotoboyEntregas.runtimeconfig.json
+C:\Users\Suporte\Documents\Gestão Motoboys\bin\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\Gestão Motoboys\bin\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyEntregas.genruntimeconfig.cache
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\ref\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\Gestão Motoboys\obj\Debug\net10.0\MotoboyE.9F87745B.Up2Date
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Debug\net10.0\MotoboyEntregas.exe
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Debug\net10.0\MotoboyEntregas.deps.json
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Debug\net10.0\MotoboyEntregas.runtimeconfig.json
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\refint\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\ref\MotoboyEntregas.dll
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyE.9F87745B.Up2Date
