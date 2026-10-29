@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotoboyEntregas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a275c2b1785584fd3fd3d03706f01b5b56cd28d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c611fcbd011695cdfc9c6eff62c336a13e1df1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotoboyEntregas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotoboyEntregas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
