@@ -35,7 +35,7 @@ void ExibirOpcoesDoMenu()
     Console.WriteLine("\nDigite 1 para registrar motoboy: ");
     Console.WriteLine("Digite 2 mostrar os motoboys cadastrados: ");
     Console.WriteLine("Digite 3 para alterar os status dos motoboys: ");
-    Console.WriteLine("Digite 4 visualizar os motoboys por status: ");
+    Console.WriteLine("Digite 4 para ver relatorio de motoboys: ");
     Console.WriteLine("Digite 5 para sair: ");
 
     Console.Write("\nDigite a sua opção: ");
@@ -48,7 +48,7 @@ void ExibirOpcoesDoMenu()
         case 1: RegistrarMotoboys(); break;
         case 2: MostrarMotoboysCadastrados(); break;
         case 3: AlterarStatusMotoboy(); break;
-        case 4: visualizarMotoboyPorStatus(); break;
+        case 4: RelatorioDeMotoboyPorStatus(); break;
         case 5: FinalizaSistema(); break;
         default: Console.WriteLine("Opcao invalida!"); break;
     }
@@ -104,6 +104,7 @@ void RegistrarMotoboys()
     }
 
     Thread.Sleep(1000);
+    Console.Clear();
     ExibirOpcoesDoMenu();
 }
 
@@ -123,12 +124,13 @@ void MostrarMotoboysCadastrados()
         foreach (KeyValuePair<string, Motoboy> item in motoboysRegistrados)
         {
             Motoboy m = item.Value;
-            m.ExibirInformacoesMotoboy();
+            m.ExibirCadastroDoMotoboy();
         }
     }
 
     Console.WriteLine("\nPressione qualquer tecla para voltar ao menu principal...");
     Console.ReadKey();
+    Console.Clear();
     ExibirOpcoesDoMenu();
 }
 
@@ -187,17 +189,18 @@ void AlterarStatusMotoboy()
     }
 
     Thread.Sleep(1500);
+    Console.Clear();
     ExibirOpcoesDoMenu();
 }
 
-void visualizarMotoboyPorStatus()
+void RelatorioDeMotoboyPorStatus()
 {
     bool continuarConsultando = true;
 
     while (continuarConsultando)
     {
         Console.Clear();
-        ExibirTituloOpcoes("Visualizar motoboy por status");
+        ExibirTituloOpcoes("Relatório de Motoboys");
 
         // se não tem ninguém cadastrado, não adianta filtrar: volta ao menu principal
         if (motoboysRegistrados.Count == 0)
@@ -226,7 +229,8 @@ void visualizarMotoboyPorStatus()
             case "2": statusAlvo = "Em Rota de Entrega"; break;
             case "3": statusAlvo = "Retornando para a Base"; break;
             case "4": statusAlvo = "Todos"; break;
-            case "5": 
+            case "5":
+                Console.Clear();
                 ExibirOpcoesDoMenu();
                 return; // só aqui volta ao menu principal
             default:
@@ -278,8 +282,6 @@ void FinalizaSistema()
     Console.WriteLine("Encerrado a execução!");
     Thread.Sleep(1000);
 }
-
-
 
 ExibirOpcoesDoMenu();
 

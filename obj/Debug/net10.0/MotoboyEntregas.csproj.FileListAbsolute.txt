@@ -58,3 +58,4 @@ C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.p
 C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.genruntimeconfig.cache
 C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\ref\MotoboyEntregas.dll
 C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyE.9F87745B.Up2Date
+C:\Users\Suporte\Documents\GestãoDeMotoboys\obj\Debug\net10.0\MotoboyEntregas.sourcelink.json

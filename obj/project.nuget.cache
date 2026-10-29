@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtZt4xlYmnU=",
+  "dgSpecHash": "pEjUdaU9FqI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Documents\\MotoboyEntregas\\MotoboyEntregas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Suporte\\Documents\\GestãoDeMotoboys\\MotoboyEntregas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.12\\microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.12\\microsoft.netcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.12\\microsoft.aspnetcore.app.runtime.win-x64.10.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -16,9 +16,9 @@ class Motoboy{
         this.telefone = telefone;
     }
 
-    public void ExibirInformacoesMotoboy()
+    public void ExibirCadastroDoMotoboy()
     {
-        Console.WriteLine($"Motoboy: {nomeDoMotoboy} | Status: {status} | Telefone: {telefone}");
+        Console.WriteLine($"Motoboy: {nomeDoMotoboy} | Telefone: {telefone}");
     }
 
     public void AlterarStatus(string novoStatus)

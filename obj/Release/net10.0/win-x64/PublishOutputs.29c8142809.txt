@@ -1,0 +1,2 @@
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Release\net10.0\win-x64\publish\MotoboyEntregas.pdb
+C:\Users\Suporte\Documents\GestãoDeMotoboys\bin\Release\net10.0\win-x64\publish\MotoboyEntregas.exe
