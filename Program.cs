@@ -1,4 +1,4 @@
-﻿
+﻿using GestãoDeMotoboy.Modelos;
 // criar funcao 
 
 Console.OutputEncoding = System.Text.Encoding.UTF8; // formatar o exibir mensagem sistema
@@ -27,7 +27,7 @@ void ExibirMensagemSistema()
 
 //List<string> listaDosMotoboys  = new List<string>()!;
 
-Dictionary<string, Motoboy> motoboysRegistrados = new Dictionary<string, Motoboy>()!;  // string motoboy, string valor (nome, status)
+Dictionary<string, Motoboy> motoboysRegistrados = new()!; // vai buscar as informacoes da classe Motoboy
 
 void ExibirOpcoesDoMenu()
 {
@@ -41,7 +41,7 @@ void ExibirOpcoesDoMenu()
     Console.Write("\nDigite a sua opção: ");
     string opcaoEscolha = Console.ReadLine()!;
 
-    int opcaoEscolhaNumerica = int.Parse(opcaoEscolha); // pra converter string pra int 
+    int.TryParse(opcaoEscolha, out int opcaoEscolhaNumerica); // pra converter string pra int 
 
     switch (opcaoEscolhaNumerica)
     {
@@ -50,7 +50,12 @@ void ExibirOpcoesDoMenu()
         case 3: AlterarStatusMotoboy(); break;
         case 4: RelatorioDeMotoboyPorStatus(); break;
         case 5: FinalizaSistema(); break;
-        default: Console.WriteLine("Opcao invalida!"); break;
+        default: 
+            Console.WriteLine("Opcao invalida!");
+            Thread.Sleep(1000);
+            Console.Clear();
+            ExibirOpcoesDoMenu();
+            break;
     }
 }
 
@@ -208,6 +213,7 @@ void RelatorioDeMotoboyPorStatus()
             Console.WriteLine("Nenhum motoboy cadastrado no momento.");
             Console.WriteLine("\nPressione qualquer tecla para voltar ao menu principal...");
             Console.ReadKey();
+            ExibirOpcoesDoMenu();
             return;
         }
 

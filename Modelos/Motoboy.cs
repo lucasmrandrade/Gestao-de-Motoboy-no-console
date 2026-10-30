@@ -1,9 +1,10 @@
-﻿using System;
+﻿namespace GestãoDeMotoboy.Modelos;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-class Motoboy{
+internal class Motoboy{
     public string nomeDoMotoboy { get; set; } 
     public string telefone { get; set; }
     public string status = "Disponível na Base"; // vindo padrao do atributo, sem precisar passar argumento no construtor 
