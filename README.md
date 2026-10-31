@@ -33,6 +33,7 @@ Os dados ficam apenas na memória (`Dictionary`), então são perdidos ao fechar
 
 e como esse projeto é uma base lógica da construção da API, ele e um seguimento da lógica e regra  de negócio que será seguido com base nesse console criado, contudo, poderá ter mudanças na regra no futuro. 
 
+o projeto foi passado pra branch master_moreira, todas as atualizações dos fontes serão passadas a essa branch.
 ## Tecnologias
 
 - C#
