@@ -1,5 +1,5 @@
 ﻿using GestãoDeMotoboy.Modelos;
-// criar funcao 
+
 
 Console.OutputEncoding = System.Text.Encoding.UTF8; // formatar o exibir mensagem sistema
 
